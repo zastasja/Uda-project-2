@@ -1,2 +1,2 @@
-# Udemy-project-1
-First project on Udemy front-end course
+# Udacity-project-2
+# Second project on Udacity front-end course
